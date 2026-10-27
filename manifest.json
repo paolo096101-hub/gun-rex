@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Gun Rex",
+  "short_name": "Gun Rex",
+  "description": "A fast pixel-art runner: jump, duck and shoot your way through 6 worlds, natural disasters and bosses.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#14122b",
+  "theme_color": "#14122b",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
